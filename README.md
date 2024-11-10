@@ -1,5 +1,5 @@
-# Ex03 Time Table
-## Date:8-11-2024
+# Ex03 Slot-Time Table
+## Date:10-11-2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -117,12 +117,17 @@ border="5" bgcolor="cyan">
     <td>PRALLEL COMPUTING ARCHITECTURE</td> 
 </tr>
 </table> 
+<center>
+    <h2>
+<caption><b>By MONISH N (212223240097)</b></caption>
+</h2>
+</center>
 </body> 
 </html>
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (197).png>)
+![Screenshot (201)](https://github.com/user-attachments/assets/173b98d1-3e36-4563-9c77-c040bba050c6)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
