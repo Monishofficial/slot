@@ -1,4 +1,4 @@
-# Ex03 Slot-Time Table
+# Ex04 Slot-Time Table
 ## Date:10-11-2024
 
 ## AIM
